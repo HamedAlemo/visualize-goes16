@@ -3,4 +3,4 @@ xarray==0.13.0
 netCDF4==1.5.3
 boto3==1.12.33
 requests==2.23.0
-notebook==6.1.5
+notebook==6.4.12
